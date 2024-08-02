@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "iridescent0923"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "DONGUK-KIM"
+name                     : "Donguk Kim"
 description              : "Doodle"
 url                      : "https://iridescent0923.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Donguk Kim"
+  avatar           : ![IMG_6196](https://github.com/user-attachments/assets/60d8a765-d7dd-49ad-a0e9-09bc51c60aff)
+  bio              : "Doodle"
+  location         : "Republic of Korea"
+  email            : "iridescent923@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "iridescent923@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/iridescent0923"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
