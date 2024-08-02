@@ -117,7 +117,7 @@ author:
   avatar           : ![IMG_6196](https://github.com/user-attachments/assets/60d8a765-d7dd-49ad-a0e9-09bc51c60aff)
   bio              : "Doodle"
   location         : "Republic of Korea"
-  email            : "iridescent923@gmail.com"
+  # email            : "iridescent923@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
