@@ -18,7 +18,7 @@ future : true
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "iridescent0923"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donguk Kim"
 description              : "Doodle"
@@ -26,9 +26,9 @@ url                      : "https://iridescent0923.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : ![IMG_6196](https://github.com/user-attachments/assets/60d8a765-d7dd-49ad-a0e9-09bc51c60aff)
+logo                     : "/assets/images/IMG_6196.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Donguk Kim"
-  avatar           : ![IMG_6196](https://github.com/user-attachments/assets/60d8a765-d7dd-49ad-a0e9-09bc51c60aff)
+  avatar           : #![IMG_6196](https://github.com/user-attachments/assets/60d8a765-d7dd-49ad-a0e9-09bc51c60aff)
   bio              : "Doodle"
   location         : "Republic of Korea"
   email            : "iridescent923@gmail.com"
@@ -323,3 +323,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+
+date_format: "%Y-%m-%d"
